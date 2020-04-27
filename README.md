@@ -1,4 +1,4 @@
-~Prolog Programming~
+-rolog Programming-
 *A good website to practice Prolog is Swish*
 
 *What is Prolog*
